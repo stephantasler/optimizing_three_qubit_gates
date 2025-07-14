@@ -1,0 +1,7 @@
+d,n_rounds,lambda_idle,lambda_mr_idle,lambda_czz,dem_method,use_czz,basis,noise_model,independent_channels,error_rates,lattice_style,cz_direction,decoder,decoder_params,p,n_shots,n_fails,uuid
+23,23,0.1,0.1,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.004,100000,11,7c7294e0.csv
+23,23,0.1,0.1,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.005,100000,280,7c7294e0.csv
+23,23,0.1,0.1,1.0,corr_decomp_appdis,False,x,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.006,100000,2591,7c7294e0.csv
+23,23,0.1,0.1,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.004,100000,21,4b8f54e6.csv
+23,23,0.1,0.1,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.005,100000,322,4b8f54e6.csv
+23,23,0.1,0.1,1.0,corr_decomp_appdis,False,z,SI1000,False,sweep_lin,rotated,11,pymatching,{},0.006,100000,2978,4b8f54e6.csv
